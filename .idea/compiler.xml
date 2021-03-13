@@ -9,8 +9,5 @@
         <module name="SpringMVCDemo" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="SpringMVCDemo" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>
